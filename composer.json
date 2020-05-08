@@ -23,7 +23,7 @@
     "autoload": {
         "classmap": [
             "shortcode-button.php",
-            "lib"
+            "lib/"
         ]
     },
     "minimum-stability": "dev"
